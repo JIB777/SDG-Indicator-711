@@ -1,11 +1,11 @@
 #James Gibson
 #3/21/22
 
-#SDG 7.1.1
+#SDG Indicator 7.1.1
 #Step 4: Results
 
 #All complete country fcs should have a field that holds the national pop percent error
-#
+
 import arcpy, sys, os
 from collections import defaultdict
 from arcpy import env
