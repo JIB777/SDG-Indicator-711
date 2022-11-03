@@ -1,7 +1,7 @@
 #James Gibson
 #3/21/22
 
-#SDG 7.1.1
+#SDG Indicator 7.1.1
 #Step 2: Processing
 
 import arcpy, sys, os
