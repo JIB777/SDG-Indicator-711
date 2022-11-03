@@ -1,7 +1,8 @@
+#James Gibson
 #3/21/22
 
 #SDG 7.1.1
-#Step 3: Editing
+#Step 3: Editing (optional)
 
 import arcpy, sys, os
 from collections import defaultdict
